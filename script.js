@@ -5,7 +5,7 @@ let musicas=[
 
 let musica = document.querySelector('audio');
 
-let indexMusica = 1;
+let indexMusica = 0;
 
 let duracaoMusica = document.querySelector('.fim');
 
